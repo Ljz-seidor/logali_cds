@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition - Employee'
+define service ZSD_EMPLOYEE_LJZ {
+  expose zce_employee_ljz;
+}

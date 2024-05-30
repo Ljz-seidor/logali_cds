@@ -1,0 +1,4 @@
+@EndUserText.label: 'Expose Employees'
+define service Zsd_01_logali {
+  expose zcds_02_ce_ljz;
+}
